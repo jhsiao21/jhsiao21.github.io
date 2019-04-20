@@ -1,6 +1,9 @@
-- company: Hon Hai/Foxconn Technology Group
+- company: 
   link: www.foxconn.com/index.html
   job_title: Senior Software Engineer
   dates: October 2014 - Present
   #quote: >
-  #description: | # this will include new lines to allow paragraphs
+  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    Hon Hai/Foxconn Technology Group.<br>
+    <I>Zhengzhou, Henan, China; Shenzhen, Guangdong, China</I>
