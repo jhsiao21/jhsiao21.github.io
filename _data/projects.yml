@@ -1,7 +1,22 @@
-- name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+- name: Project 1 - Mobile's component defect inspection 
+  #link: 
+  #github: sproogen/resume-theme
+  #quote: >
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - Developed a CNN-based deep learning model using <mark>TensorFlow</mark> that improves the traditional image processing-based method which is hard to filter out the complicated texture defect.    
+  - Achieved a significant performance, whose goal is the miss rate less than 3%.
+
+- name: Project 2 - SCADA Platform
+  description:
+  - Designed and developed a SCADA-like platform using C# that improves the speed of fetching data from different equipment and other time-consuming work like data standardized.
+  - Integrated different protocol like Modbus or Socket to fetch data simultaneously.
+
+- name: Project 3 - iOS App
+  description:
+  - Developed an iOS application using Objective-C that allows Foxconn’s employee to easily learn professional courses online.
+  - Utilized web service API to fetch all of data like text, picture, and media from backend database for lower computation cost on the app.
+
+- name: Project 4 - Surveillance System
+  description:
+  - Developed a Surveillance System using C# that allows user to effortlessly observe the quality of video.
+  - Integrated Hikvision, Dahua SDK(Hikvision and Dahua are both the world’s leading security surveillance products supplier), and OpenCV library to develop the quality of video inspection algorithm.  
