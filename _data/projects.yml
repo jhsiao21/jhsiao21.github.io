@@ -7,12 +7,12 @@
   - Achieved a significant performance, whose goal is the miss rate less than 3%.
 
 - name: Project 2 - SCADA Platform
-  description:
+  description: |
   - Designed and developed a SCADA-like platform using C# that improves the speed of fetching data from different equipment and other time-consuming work like data standardized.
   - Integrated different protocol like Modbus or Socket to fetch data simultaneously.
 
 - name: Project 3 - iOS App
-  description:
+  description: |
   - Developed an iOS application using Objective-C that allows Foxconn’s employee to easily learn professional courses online.
   - Utilized web service API to fetch all of data like text, picture, and media from backend database for lower computation cost on the app.
 
