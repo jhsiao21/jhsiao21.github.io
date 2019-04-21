@@ -24,7 +24,7 @@ linkedin_username: loganhsiao
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Logan.<BR>
+  Hi, my name is Logan and I'm a senior software developer.<BR>
   I love to build application with my skills and looking forward to create something that make real impact.
 
 
@@ -40,6 +40,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: Skills
 more_content: | # this will include new lines to allow paragraphs
+  Skills:
   - Programming: <I>(proficient)</I>: <mark>Python</mark>,  <mark>C#</mark> <I>(familiar)</I>: <mark>C/C++</mark>, <mark>Java</mark>, <mark>Matlab</mark>, <mark>SQL</mark>
   - Professional: <I>(proficient)</I>: <mark>Machine Learning</mark>, <mark>Image Processing</mark>  <I>(familiar)</I>: <mark>Data Compression</mark>
 
