@@ -1,20 +1,21 @@
 - name: Mobile's component defect inspection
   description: | # this will include new lines to allow paragraphs
     - Developed a deep CNN-based classification model using <mark>TensorFlow</mark> that improves the traditional image processing-based method which is hard to filter out the complicated texture defect.    
-    - Achieved a significant performance, whose goal is the miss rate less than 3%.
+    - Achieved a significant performance, whose goal is the miss rate less than 3%.<BR>
+    [Detail](files/Project1.pdf) <I>(written in chinese)</I>
 
 - name: SCADA Platform
   description: | # this will include new lines to allow paragraphs
     - Designed and developed a SCADA-like platform using <mark>C#</mark> that improves the speed of fetching data from different equipment and other time-consuming work like data standardized.
-    - Integrated different protocol like Modbus or Socket to fetch data simultaneously.
-
+    - Integrated different protocol like Modbus or Socket to fetch data simultaneously.<BR>
+    [Detail](files/Project2.pdf) <I>(written in chinese)</I>
 - name: iOS App
   description: | # this will include new lines to allow paragraphs
     - Developed an iOS application using <mark>Objective-C</mark> that allows Foxconn’s employee to easily learn professional courses online.
-    - Utilized web service API to fetch all of data like text, picture, and media from backend database for lower computation cost on the app.
-
+    - Utilized web service API to fetch all of data like text, picture, and media from backend database for lower computation cost on the app.<BR>
+    [Detail](files/Project3.pdf) <I>(written in chinese)</I>
 - name: Surveillance System
   description: | # this will include new lines to allow paragraphs
     - Developed a Surveillance System using <mark>C#</mark> that allows user to effortlessly observe the quality of video.
-    - Integrated Hikvision, Dahua SDK(Hikvision and Dahua are both the world’s leading security surveillance products supplier), and OpenCV library to develop the quality of video inspection algorithm.
-
+    - Integrated Hikvision, Dahua SDK(Hikvision and Dahua are both the world’s leading security surveillance products supplier), and OpenCV library to develop the quality of video inspection algorithm.<BR>
+    [Detail](files/Project4.pdf) <I>(written in chinese)</I>

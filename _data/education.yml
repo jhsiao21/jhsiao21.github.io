@@ -1,6 +1,6 @@
 - name:
-  dates: September 2012-9 - July 2014
-  qualification: Master of Computer Science
+  dates: September 2012 - July 2014
+  qualification: M.S. in Computer Science
   #quote: >
   #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
@@ -9,7 +9,7 @@
   #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 - name: 
   dates: September 2007 - June 2009
-  qualification: Master of Computer Science
+  qualification: B.S. in Computer Science
   description: | # this will include new lines to allow paragraphs
     National Formosa University of Science and Technology<br>
     <I>Yunlin, Taiwan</I>
